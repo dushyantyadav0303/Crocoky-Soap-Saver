@@ -1,13 +1,45 @@
 ---
 title: "Crocoky-Soap-Saver"
-description: " this is 3d printed cute Crocodile shape Soap water drainer which is Design in blender."
-Startes_at: "2026-09-16"
+description: " this is 3d printed cute Crocodile shape Soap water drainer which is Design in blender and  a Drainer cover which protect Drainage pipes from clotting."
+Startes_at: "2026-07-12"
 ---
 
-<img width="968" height="475" alt="image" src="https://github.com/user-attachments/assets/1a734da2-4994-476e-ba80-5b7d78f9ede3" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1a734da2-4994-476e-ba80-5b7d78f9ede3" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6f4a4b03-8ea8-4340-bba2-e21193481820" /> <br/>
+
+
 
 
 ## Hackatime link: https://hackatime.hackclub.com/@dushyantYadav0303/project/Crocoky+Soap+Saver
+## Hackatime link: https://hackatime.hackclub.com/@dushyantYadav0303/project/Drainer
+
+
+# 2026-07-12      CAD designing Drainer
+## lapse: https://lapse.hackclub.com/timelapse/SzLSab8X0YOa
+### hola!!!,
+### today, I'm making a new CAD project for Improving my CAD skill!! I'm tooo Beginner at that time.
+### Also I will using this drainer cover at my Kitchen
+### So here you see the cad design 
+<img width="859" height="518" alt="image" src="https://github.com/user-attachments/assets/3d8c4dfb-b63d-45fd-b3c4-f92d6fcc2839" />
+
+
+---
+
+
+
+# 2026-07-20     Render
+## lapse: https://lapse.hackclub.com/timelapse/z2W_ClS5F7vw
+### So today I'm making a render of drainer in blender. 
+### and yah i am Beginner that time.
+### And here you see the render
+<img width="1920" height="1080" alt="drain  6" src="https://github.com/user-attachments/assets/fa77a957-018f-4aa3-8793-c44f22fb1b43" />
+<img width="1920" height="1080" alt="drain  7" src="https://github.com/user-attachments/assets/084cec27-6ea9-4dff-8a5e-01e3f3686a4d" />
+<img width="1920" height="1080" alt="drain  9" src="https://github.com/user-attachments/assets/a1d19864-6a75-403f-a7da-391265f52bd1" />
+<img width="1920" height="1080" alt="drain  1" src="https://github.com/user-attachments/assets/8068a6b1-2f1e-41a5-93c8-73cd3a25a15f" />
+<img width="1920" height="1080" alt="drain  5" src="https://github.com/user-attachments/assets/e82ebab9-2a01-4c39-bdf6-ec3ecefae06f" />
+
+
+---
 
 
 # from 2026-09-16   to  2026-09-17    Crocoky Soap Saver CAD + Render
@@ -40,4 +72,4 @@ Startes_at: "2026-09-16"
 
 
 ### Make the printable page and also make the journal abt lapse 
-### Printable link: https://www.printables.com/model/1845350-crocoky-soap-saver
+### Printable link: https://www.printables.com/model/1845350-crocoky-soap-saver-drainer
