@@ -13,7 +13,7 @@
 
 <h4 align="center">
 
-Crocoky-Soap-Saver_Drainer
+Crocoky-Soap-Saver & Drainer
 
  <br/>
 
