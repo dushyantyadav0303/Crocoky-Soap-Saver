@@ -13,7 +13,7 @@
 
 <h4 align="center">
 
-Crocoky-Soap-Saver
+Crocoky-Soap-Saver_Drainer
 
  <br/>
 
@@ -49,9 +49,16 @@ Crocoky-Soap-Saver
 
   
 <div align="center">
- <img width=100% alt="image" 
-  <img width="1600" height="1200" src="https://github.com/user-attachments/assets/f487354f-e071-46c4-adb6-c4d24091ce6c" />
-
+  <table>
+<tr>
+  <td valign="middle" align="center">
+ <img width=280 alt="image" src="https://github.com/user-attachments/assets/f487354f-e071-46c4-adb6-c4d24091ce6c" />
+</td>
+<td valign="middle" align="center">
+  <img height="280" alt="image" src="https://github.com/user-attachments/assets/79a3171e-35a8-42aa-bcad-ad6decb07b57" />
+</td>
+</tr>
+</table>
 </div>
   
 
@@ -59,30 +66,47 @@ Crocoky-Soap-Saver
 ## printable like: https://www.printables.com/model/1845350-crocoky-soap-saver
 ## About the Project
 ### **Crocoky Soap Saver** - this is 3d printed cute Crocodile shape Soap water drainer which is Design in blender. 
+### **Drainer** - it is a Drainer cover which protect Drainage pipes from clotting.
 
 ## why i made this?
-### I make this Soap water Drainer for My kitchen cause Every time I put it Normal Soap holder it collect the water and Deform the Soap texture. 
+### I make this Soap water Drainer for My kitchen cause Every time I put it Normal Soap holder it collect the water and Deform the Soap texture. and i make this drainer for my Kitchen.
 ## Repository Structure
 - `src/` - project sources
 - `production/` - Production File
 
+
 ## CAD 
 <div align="center">
- <img width=100% alt="image" src="https://github.com/user-attachments/assets/f8079906-f9a7-44ff-b064-34d08f7bb9d3" />
+ <table>
+    <tr>
+      <td valign="bottom"><img width=100% alt="image"  src="https://github.com/user-attachments/assets/f8079906-f9a7-44ff-b064-34d08f7bb9d3" />
 
+</td>
+      <td valign="bottom"><img width=100% height=150% alt="image" src="https://github.com/user-attachments/assets/35a08cdf-8b25-4957-aa8e-b9009d7b9035" />
+
+  </td>
+  </table>
 </div>
 
 - source: `src/`  
 
-## Render
+
+
+
 <div align="center">
- <img width=100% alt="image" src="https://github.com/user-attachments/assets/0582a1fb-430f-4385-9e9c-8475cccd41c0" />
+  <table>
+    <tr>
+      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/0582a1fb-430f-4385-9e9c-8475cccd41c0" />
 
+</td>
+      <td valign="bottom"><img width=100% height=150% alt="image" src="https://github.com/user-attachments/assets/33349186-b7c2-4de9-ba05-f454587f2dc7" />
 
-
+  </td>
+  </table>
 </div>
 
-- source: `Render/`  
+- source: `Render`  
+
 
 
 ## Bill of Materials
@@ -92,15 +116,27 @@ Source: `BOM.csv`
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
 |Pla+ filament| 17gram| 0.2$   |https://india.numakers.com/products/pla-filament|
+|Pla+ filament| 50gram| 0.5$   |https://india.numakers.com/products/pla-filament|
+|Total        | 67gram| 0.7$   |                                                |
 
 
 ## Production
-
-
 <div align="center">
- <img width=100% alt="image" src="https://github.com/user-attachments/assets/7ebd5f5d-3adf-4584-92f2-8aeb4657f6b3" />
+  <table>
+    <tr>
+      <td valign="bottom"><img width=100% alt="image"  src="https://github.com/user-attachments/assets/7ebd5f5d-3adf-4584-92f2-8aeb4657f6b3" />
 
+</td>
+      <td valign="bottom"><img width=100% height=150% alt="image" src="https://github.com/user-attachments/assets/17745aad-512d-4ef8-b21b-0661dd964e60" />
+
+
+  </td>
+  </table>
 </div>
+
+
+
+
 
 ### Recommended Print Specifications
 
@@ -126,13 +162,17 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Credits
 <div align="center">
 
+[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
 [![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-Live%20YSWS-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
 [![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
 [![Bambu Studio](https://img.shields.io/badge/Rendered%20in-Bambu%20Studio-green?style=for-the-badge&logo=Bambulab&logoColor=white)](https://bambulab.com/en/download/studio) 
+
 
 </div>
 
 This project was created during a [Hack Club](https://hackclub.com) event [Live](https://live.hackclub.com).
 
 - **[Blender](https://www.blender.org)** - Render + cad
+- **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
 - **[Bambu Studio](https://bambulab.com/en/download/studio)** - Slicing the Model
+
